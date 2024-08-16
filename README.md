@@ -37,8 +37,3 @@ This project showcases the skills and knowledge acquired during the Azimut autom
 I plan to continue enhancing these tests by:
 - Expanding the test coverage to include more scenarios.
 - Refactoring the code to improve maintainability.
-- Integrating with a CI/CD pipeline to automate the testing process further.
-
----
-
-This version mentions the course you participated in and maintains the straightforward tone you're aiming for. Let me know if any further adjustments are needed!
